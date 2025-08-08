@@ -48,7 +48,7 @@ Adjust proximity threshold if needed (default: 3km)
 
 🔧 Usage
 Run the proximity monitor:
-bashpython3 getloc.py
+python3 getloc.py
 The script will continuously monitor your devices and send notifications when they're nearby!
 
 Built with ❤️ for seamless location tracking 
